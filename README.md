@@ -2,7 +2,7 @@
 
 I'm Anthony, welcome to the beautiful mess of my GitHub. Stay a while, and listen. 
 
-- 🔭 I’m currently working on on GameNight - v2 (incorporating UX Design Fundamentals & creating a case study for the overall product)
+- 🔭 I’m currently building reps on (Frontend Mentor)[https://www.frontendmentor.io/profile/ajm24027], and rebuilding out old projects using UX Design Strategies.
 - 🌱 I’m currently learning Typescript & React Native.
 - 📫 How to reach me: <https://www.anthonyjmedina.com>
 - 🤝🏼 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anthonyjmedina/) 
